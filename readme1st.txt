@@ -1,6 +1,7 @@
 # Basic-SQL-payload
 Usage:
-Download and instal XAMPP
+Download and instal XAMPP on windows
+link : https://www.apachefriends.org/download.html
 why xampp? (read xampp_explaination pdf)
 download and copy login.php and login.html to the XAMPP repo.
 ex.(htdocs) inside XAMPP installation location folder.
